@@ -386,7 +386,7 @@ public:
 | 任务1.1 磁盘存储管理器 | src/storage/disk_manager_test.cpp        | 10   |
 | 任务1.2 缓冲池替换策略 | src/replacer/lru_replacer_test.cpp       | 20   |
 | 任务1.3 缓冲池管理器   | src/storage/buffer_pool_manager_test.cpp | 40   |
-| 任务2 记录管理器       | src/record/rm_gtest.cpp                  | 30   |
+| 任务2 记录管理器       | src/record/record_manager_test.cpp       | 30   |
 
 编译生成可执行文件进行测试：
 
